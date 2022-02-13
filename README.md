@@ -10,7 +10,7 @@ Create a custom html link page and upload it here!
 
 More info coming soon!
 
-But this could be your place to create a link page. Or page to directed to your website!
+But this could be your place to create a link page. Or page to redirect to your website!
 
 Try...
 
