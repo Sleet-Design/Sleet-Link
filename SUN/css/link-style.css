@@ -1,0 +1,261 @@
+
+
+/* https://codepen.io/Eprz/pen/QWWdKO */
+
+/* padding: 10px; */
+/* float: left; */
+/* width: 200px; */
+
+
+/* Square Buttons */
+
+.link-box-holder {
+    position: relative;
+    padding: 10px;
+    margin: 10px;
+    height:75px;
+}
+
+/* LIGHT SMOOTH */
+.btn-1 {
+    /* width:500px; */
+    height:75px;
+    background:#e6e6e6;
+    margin:10px 10px 5px 10px;
+    line-height: 80px;
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    clear: both;
+    border-bottom:solid 5px #d0d0d0;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    color:#f6f6f6;
+    font-size: 25px;
+    font-weight: 700;
+    transition:all 0.1s linear;
+    -webkit-transition:all 0.1s linear;
+    -moz-transition:all 0.1s linear;
+    -o-transition:all 0.1s linear;
+    -ms-transition:all 0.1s linear;
+}
+
+.btn-1:hover {
+    border-bottom:solid #d0d0d0 0px;
+    margin-top:15px;
+    color:#b9b9b9;
+}
+
+/* BLUE SMOOTH */
+.btn-2 {
+    /* width:500px; */
+    height:75px;
+    background:#4578ac;
+    margin:10px 10px 5px 10px;
+    line-height: 80px;
+    position: absolute;
+    left: 10%;
+    right: 10%;
+clear: both;
+    border-bottom:solid 5px #32577c;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    color:#86a7c9;
+    font-size: 25px;
+    font-weight: 700;
+    transition:all 0.1s linear;
+    -webkit-transition:all 0.1s linear;
+    -moz-transition:all 0.1s linear;
+    -o-transition:all 0.1s linear;
+    -ms-transition:all 0.1s linear;
+}
+
+.btn-2:hover {
+    border-bottom:solid #32577c 0px;
+    margin-top:15px;
+    color:#e3e3e3;
+}
+
+.btn-3 {
+    /* width:500px; */
+    height:75px;
+    background:#1bbc9b;
+    margin:10px 10px 5px 10px;
+    line-height: 80px;
+    position: absolute;
+    left: 10%;
+    right: 10%;
+clear: both;
+    border-bottom:solid 5px #16a086;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    color:#4fdbc1;
+    font-size: 25px;
+    font-weight: 700;
+    transition:all 0.1s linear;
+    -webkit-transition:all 0.1s linear;
+    -moz-transition:all 0.1s linear;
+    -o-transition:all 0.1s linear;
+    -ms-transition:all 0.1s linear;
+}
+
+.btn-3:hover {
+    border-bottom:solid #16a086 0px;
+    margin-top:15px;
+    color:#fff;
+}
+
+/* RED SMOOTH */
+.btn-4 {
+    /* width:500px; */
+    height:75px;
+    background:#d93636;
+    margin:10px 10px 5px 10px;
+    line-height: 80px;
+    position: absolute;
+    left: 10%;
+    right: 10%;
+clear: both;
+    border-bottom:solid 5px #b62d2d;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    color:#ec6868;
+    font-size: 25px;
+    font-weight: 700;
+    transition:all 0.1s linear;
+    -webkit-transition:all 0.1s linear;
+    -moz-transition:all 0.1s linear;
+    -o-transition:all 0.1s linear;
+    -ms-transition:all 0.1s linear;
+}
+
+.btn-4:hover {
+    border-bottom:solid #b62d2d 0px;
+    margin-top:15px;
+    color:#fff;
+}
+
+.btn-5 {
+    /* width:500px; */
+    height:75px;
+    background:#ad40bd;
+    margin:10px 10px 5px 10px;
+    line-height: 80px;
+    position: absolute;
+    left: 10%;
+    right: 10%;
+clear: both;
+    border-bottom:solid 5px #91369f;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    color:#d169e0;
+    font-size: 25px;
+    font-weight: 700;
+    transition:all 0.1s linear;
+    -webkit-transition:all 0.1s linear;
+    -moz-transition:all 0.1s linear;
+    -o-transition:all 0.1s linear;
+    -ms-transition:all 0.1s linear;
+}
+
+.btn-5:hover {
+    border-bottom:solid #91369f 0px;
+    margin-top:15px;
+    color:#fff;
+}
+
+/* ORANGE SMOOTH */
+.btn-6 {
+    /* width:500px; */
+    height:75px;
+    background:#f98e38;
+    margin:10px 10px 5px 10px;
+    line-height: 80px;
+    position: absolute;
+    left: 10%;
+    right: 10%;
+clear: both;
+    border-bottom:solid 5px #dc7d30;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    color:#ffb87e;
+    font-size: 25px;
+    font-weight: 700;
+    transition:all 0.1s linear;
+    -webkit-transition:all 0.1s linear;
+    -moz-transition:all 0.1s linear;
+    -o-transition:all 0.1s linear;
+    -ms-transition:all 0.1s linear;
+}
+
+.btn-6:hover {
+    border-bottom:solid #dc7d30 0px;
+    margin-top:15px;
+    color:#fff;
+}
+
+.btn-7 {
+    /* width:500px; */
+    height:75px;
+    background:#323232;
+    margin:10px 10px 5px 10px;
+    line-height: 80px;
+    position: absolute;
+    left: 10%;
+    right: 10%;
+clear: both;
+    border-bottom:solid 5px #1d1d1d;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    color:#6a6a6a;
+    font-size: 25px;
+    font-weight: 700;
+    transition:all 0.1s linear;
+    -webkit-transition:all 0.1s linear;
+    -moz-transition:all 0.1s linear;
+    -o-transition:all 0.1s linear;
+    -ms-transition:all 0.1s linear;
+}
+
+.btn-7:hover {
+    border-bottom:solid #1d1d1d 0px;
+    margin-top:15px;
+    color:#fff;
+}
+
+/* YELLOW SMOOTH */
+.btn-8 {
+    /* width:500px; */
+    height:75px;
+    background:#fde412;
+    margin:10px 10px 5px 10px;
+    line-height: 80px;
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    border-bottom:solid 5px #e3cd12;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    color:#fff494;
+    font-size: 25px;
+    font-weight: 700;
+    transition:all 0.1s linear;
+    -webkit-transition:all 0.1s linear;
+    -moz-transition:all 0.1s linear;
+    -o-transition:all 0.1s linear;
+    -ms-transition:all 0.1s linear;
+}
+
+.btn-8:hover {
+    border-bottom:solid #e3cd12 0px;
+    margin-top:15px;
+    color:#fff;
+}

@@ -1,0 +1,30 @@
+body {
+    background: url(../img/1.png) no-repeat center center fixed; 
+    background-size: cover;
+    /* background-color: rgb(245, 247, 125); */
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* header style */
+header {
+    text-align: center;
+}
+header img {
+    width: 100px;
+    border-radius: 50%;
+    border: 1px solid red;
+}
+
+
+
+
+/* footer style */
+  footer {
+      text-align: center;
+      padding: 20px;
+  }
+
+
